@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BINGOANDROID_17</string>
+    <string name="bingo">BINGO ANDROID</string>
+    <string name="jugar">Jugar</string>
+    <string name="sacar">Sacar Número</string>
+    <string name="numeroMaximo">10</string>
+    <string name="numeroCartones">2</string>
+    <string name="numeroSacado">El número sacado es:</string>
+    <string name="numeroAciertos">El número de aciertos es:</string>
+    <string name="numeroLinea">5</string>
+    <string name="numeroBingo">10</string>
+    <string name="Linea">LINEA</string>
+    <string name="Bingo">BINGO</string>
+    <string name="elementosSpinner">El total de bolas ha sido: </string>
+</resources>
